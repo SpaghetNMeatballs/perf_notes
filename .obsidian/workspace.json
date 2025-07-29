@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Содержание.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Содержание"
+              "title": "README"
             }
           }
         ]
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Содержание.md",
+                    "file": "README.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -68,7 +68,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Содержание"
+                  "title": "Graph of README"
                 }
               }
             ]
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Содержание.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Содержание"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -187,12 +187,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Содержание.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Содержание"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -216,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Содержание.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Содержание"
+              "title": "Outline of README"
             }
           },
           {
@@ -256,6 +256,9 @@
   },
   "active": "321f2e4947cd0a6a",
   "lastOpenFiles": [
+    "Содержание.md",
+    "README.md",
+    "New Text Document.txt",
     "Базы данных/Практическая оптимизация запросов.md",
     "Вопросы к собеседованию/Вопросы к собесам.md",
     "objects/pack",
@@ -267,13 +270,11 @@
     "refs",
     "config",
     "info/exclude",
-    "info",
     "Вопросы к собеседованию/Теория тестирования.md",
     "Вопросы к собеседованию/Вопросы к собеседованию.md",
     "Вопросы к собеседованию/Middle/Вопросы уровня middle.md",
     "Вопросы к собеседованию/Вопросы уровня junior.md",
     "Базы данных/Базы данных.md",
-    "Содержание.md",
     "Теория НТ/Теория нагрузочного тестирования.md",
     "Глоссарий.md",
     "Теория НТ/Виды нагрузочного тестирования.md",
